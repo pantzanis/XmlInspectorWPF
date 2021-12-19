@@ -51,8 +51,8 @@ namespace XmlInspector
                 XmlNodeList elemList = doc.GetElementsByTagName("title");
                 for (int i = 0; i < elemList.Count; i++)
                 {
-                    System.Diagnostics.Debug.WriteLine(elemList[i].InnerXml);
-                    txtEditor.Text += elemList[i].InnerXml + "\n";
+                    System.Diagnostics.Debug.WriteLine(elemList[i]!.InnerXml);
+                    txtEditor.Text += elemList[i]!.InnerXml + "\n";
                 }
                 //txtEditor.Text = File.ReadAllText(openFileDialog.FileName);
             }
