@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmlInspector", "XmlInspector\XmlInspector.csproj", "{633961C0-22A9-4A9A-AE5C-1619C2B78424}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{633961C0-22A9-4A9A-AE5C-1619C2B78424}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{633961C0-22A9-4A9A-AE5C-1619C2B78424}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{633961C0-22A9-4A9A-AE5C-1619C2B78424}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{633961C0-22A9-4A9A-AE5C-1619C2B78424}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50A9C10B-9EAE-47CF-8FC0-48896A568E6D}
+	EndGlobalSection
+EndGlobal
